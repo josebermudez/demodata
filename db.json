@@ -1,0 +1,7 @@
+{
+    "login":{
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTYyMTQ0MTc5MywiZXhwIjoxNjIxNDQ1MzkzLCJuYmYiOjE2MjE0NDE3OTMsImp0aSI6IlNQMVA5UTJQMEZveWNocWwiLCJzdWIiOjEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.I1-UIF7RZ5bP3Yf29YMCPr63o54qNGGopxPyZ1tbfd8",
+        "token_type": "bearer",
+        "expires_in": 3600
+    }
+  }
